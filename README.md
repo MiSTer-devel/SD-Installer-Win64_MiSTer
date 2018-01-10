@@ -8,3 +8,4 @@
 Don't forget to update [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/tree/master/releases) and [Menu.rbf](https://github.com/MiSTer-devel/Menu_MiSTer/tree/master/releases) binaries on FAT partition manually (remove date-codes from names).
 The versions included in this installer may be outdated!
 
+For detailed guide [click here](https://github.com/MiSTer-devel/Main_MiSTer/wiki/Beginner-Setup-Guide)
