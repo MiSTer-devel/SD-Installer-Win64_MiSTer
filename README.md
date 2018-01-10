@@ -1,7 +1,7 @@
 # HOW-TO
 
 * You need either Windows 7 64bit or Windows 10 64bit.
-* Unpack archive of desired version into separate folder.
+* Unpack archive (release_XXXXXXXX.rar) of desired version into separate folder.
 * insert SD card (you can use USB card reader)
 * run MiSTer SD Card Utility.exe
 
