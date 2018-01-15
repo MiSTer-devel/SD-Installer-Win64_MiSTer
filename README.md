@@ -9,3 +9,17 @@ Don't forget to update [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/tree
 The versions included in this installer may be outdated!
 
 For detailed guide [click here](https://github.com/MiSTer-devel/Main_MiSTer/wiki/Beginner-Setup-Guide)
+
+
+# New SD card layout
+Starting from Release 20180115 new layout is used. Original layout had 3 partitions listed in reversed order
+for windows compatibility with dedicated partition for Linux. New layout uses only 2 partitions with natural order
+providing maximum compatibilty to 3rd party disk tools. Partitions won't be messed as in old format after such tools.
+Linux uses image on FAT partition and thus doesn't accupy separate partition. It allows easier Linux update which needs a simple
+file copy. It doesn't require reservation of SD space, thus it's only 200MB file instead of 500MB dedicated partition.
+
+New SD installer tool and Linux supplied in new releases is backward compatible with old layout. You can continue to use the same SD card
+without re-formatting. Since new version doesn't use dedicated Linux partition, the space occupied by this partition will be eventually
+wasted. It's recommended to backup all your files from SD card and re-format it to new layout.
+
+Although new SD installation tool is tested, it's still need field testing and may have so bug. So, make a backup of your files.
