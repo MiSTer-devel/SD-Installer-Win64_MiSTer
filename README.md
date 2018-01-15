@@ -18,8 +18,8 @@ providing maximum compatibilty to 3rd party disk tools. Partitions won't be mess
 Linux uses image on FAT partition and thus doesn't accupy separate partition. It allows easier Linux update which needs a simple
 file copy. It doesn't require reservation of SD space, thus it's only 200MB file instead of 500MB dedicated partition.
 
-New SD installer tool and Linux supplied in new releases is backward compatible with old layout. You can continue to use the same SD card
+New SD installer tool and Linux supplied in new releases are backward compatible with old layout. You can continue to use the same SD card
 without re-formatting. Since new version doesn't use dedicated Linux partition, the space occupied by this partition will be eventually
 wasted. It's recommended to backup all your files from SD card and re-format it to new layout.
 
-Although new SD installation tool is tested, it still needs field testing and may have bugs. So, make a backup of your files.
+Although new SD installation tool has been tested, it still needs field testing and may have bugs. So, make a backup of your files.
