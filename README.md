@@ -22,4 +22,4 @@ New SD installer tool and Linux supplied in new releases is backward compatible 
 without re-formatting. Since new version doesn't use dedicated Linux partition, the space occupied by this partition will be eventually
 wasted. It's recommended to backup all your files from SD card and re-format it to new layout.
 
-Although new SD installation tool is tested, it's still need field testing and may have so bug. So, make a backup of your files.
+Although new SD installation tool is tested, it still needs field testing and may have bugs. So, make a backup of your files.
