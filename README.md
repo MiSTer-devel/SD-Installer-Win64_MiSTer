@@ -1,6 +1,6 @@
 # HOW-TO
 
-* You need 64bit Windows 7/8/10.
+* You need 64bit Windows 10.
 * Unpack archive (release_XXXXXXXX.rar) of desired version into separate folder.
 * insert SD card (you can use USB card reader)
 * run MiSTer SD Card Utility.exe
