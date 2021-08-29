@@ -3,3 +3,4 @@
 !.gitignore
 !release*
 !*.md
+!7za.gz
