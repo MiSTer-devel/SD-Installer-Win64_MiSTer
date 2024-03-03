@@ -1,3 +1,5 @@
+# OTHER LANGUAGES
+[Русский (Russian)](https://github.com/sapbotgit/RussianTranslations/blob/main/MiSTer-SD-Card.md)
 # HOW-TO
 
 * You need 64bit Windows 10.
