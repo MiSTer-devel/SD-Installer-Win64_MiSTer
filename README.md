@@ -1,5 +1,5 @@
 # OTHER LANGUAGES
-[Русский (Russian)](https://github.com/sapbotgit/RussianTranslations/blob/main/MiSTer-SD-Card.md)
+[Русский (Russian)](#RU)
 # HOW-TO
 
 * You need 64bit Windows 10.
@@ -25,3 +25,23 @@ without re-formatting. Since new version doesn't use dedicated Linux partition, 
 wasted. It's recommended to backup all your files from SD card and re-format it to new layout.
 
 Although new SD installation tool has been tested, it still needs field testing and may have bugs. So, make a backup of your files.
+# RU
+# Как
+
+* Вам потребуется Windows 10, 64 бита
+* Распакуйте архив (release_XXXXXXXX.rar) отдельной версии в отдельную папку.
+* Вставьте SD CARD (вам может понадобится кардридер)
+* запустите MiSTer SD Card Utility.exe
+
+Не забудьте обновить [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/tree/master/releases) и [Menu.rbf](https://github.com/MiSTer-devel/Menu_MiSTer/tree/master/releases) программы.
+Версии в установщике могут быть устарелыми?
+
+[Тыкните сюда](https://github.com/MiSTer-devel/Wiki_MiSTer/wiki/Setup-Guide) чтобы прочитать полную вики по установке (рекомендую использовать яндекс переводчик)
+
+
+# Новая версия SD карты
+Начиная с 20180115 будет использоваться новый набор карты. Оригинальный имел 3 раздела
+для поддержки всего. Новый теперь всего 2 раздела
+оставляя полную совместимость для сторонних программ.
+
+Все равно баги имеются поэтому советуем сохранить свои данные
